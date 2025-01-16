@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="temperature_converter">Unit Converter</string>
+    <string name="enter_value">Enter value</string>
+    <string name="result_placeholder">Result: </string>
+    <string name="convert">Convert</string>
+
+    <!-- Temperature Units -->
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <!-- Weight Units -->
+    <string-array name="weight_units">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+
+    <!-- Scale Units -->
+    <string-array name="scale_units">
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+    </string-array>
+
+    <!-- Currency Units -->
+    <string-array name="currency_units">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>INR</item>
+    </string-array>
+
+    <string name="background_image_desc">Background Image</string>
+    <string name="category_image_desc">Category Icon</string>
+</resources>
